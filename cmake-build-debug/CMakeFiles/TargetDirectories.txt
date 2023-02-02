@@ -1,0 +1,3 @@
+C:/Users/kawec/CLionProjects/repository/cmake-build-debug/CMakeFiles/repository.dir
+C:/Users/kawec/CLionProjects/repository/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kawec/CLionProjects/repository/cmake-build-debug/CMakeFiles/rebuild_cache.dir
